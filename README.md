@@ -7,7 +7,7 @@
 
 # "The European Refugee Crisis and Changes in Attitude Towards Migration" - a Big Data Project
 
-## by **Ludwig Kraft**, **Luca Keiser** & **Adrian Mrozowski**
+## by Ludwig Kraft, Luca Keiser & Adrian Mrozowski
 
 University of Lucerne
 
